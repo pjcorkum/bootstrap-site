@@ -1,0 +1,6 @@
+.body-with-background {
+    background: "https://i.imgur.com/4iFRR4g.jpeg";
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
